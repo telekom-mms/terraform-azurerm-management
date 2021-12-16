@@ -15,10 +15,7 @@ locals {
 
   # deep merge
   management_lock_config = {
-    for config in keys(local.default.management_lock_config) :
-    config => {
-      for instance in keys(var.management_lock_config[config]) :
-      instance => merge(local.default.management_lock_config[config], var.management_lock_config[config][instance])
-    }
+    for config in keys(var.management_lock_config) :
+    config => merge(local.default.management_lock_config, var.management_lock_config[config])
   }
 }
