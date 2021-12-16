@@ -1,5 +1,5 @@
 variable "management_lock_config" {
-  type    = any
+  type        = any
   default     = {}
   description = "resource configuration, default settings are defined within locals and merged with var settings"
 }
