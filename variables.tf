@@ -1,21 +1,23 @@
-variable "management_lock_config" {
+variable "management_lock" {
   type        = any
   default     = {}
-  description = "resource configuration, default settings are defined within locals and merged with var settings"
+  description = "resource definition, default settings are defined within locals and merged with var settings"
 }
 
 locals {
   default = {
-    management_lock_config = {
-      name       = "Delete"
+    # resource definition
+    management_lock = {
+      name       = ""
       lock_level = "CanNotDelete"
       notes      = ""
     }
   }
 
-  # deep merge
-  management_lock_config = {
-    for config in keys(var.management_lock_config) :
-    config => merge(local.default.management_lock_config, var.management_lock_config[config])
+  # compare and merge custom and default values
+  # merge all custom and default values
+  management_lock = {
+    for management_lock in keys(var.management_lock) :
+    management_lock => merge(local.default.management_lock, var.management_lock[management_lock])
   }
 }
