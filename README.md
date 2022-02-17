@@ -36,7 +36,7 @@ This module manages Azure Management Locks.
 
 ```hcl
 module "management" {
-  source = "../terraform-management"
+  source = "registry.terraform.io/T-Systems-MMS/management/azurerm"
   management_lock = merge(
     /** protect all created resource_groups */
     {
