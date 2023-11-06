@@ -1,9 +1,11 @@
 /**
- * # management lock
- *
- * This module manages Azure Management Locks.
- *
+* # management
+*
+* This module manages the hashicorp/azurerm management resources.
+* For more information see https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs > management
+*
 */
+
 resource "azurerm_management_lock" "management_lock" {
   for_each = var.management_lock
 
