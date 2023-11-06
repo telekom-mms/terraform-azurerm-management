@@ -1,33 +1,41 @@
 # Changelog
 
-## [1.0.1](https://github.com/T-Systems-MMS/terraform-azurerm-management/tree/1.0.1) (2022-05-09)
+## [2.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/2.0.0) (2023-11-06)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azurerm-management/compare/1.0.0...1.0.1)
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/1.0.1...2.0.0)
+
+**Closed issues:**
+
+- Dependency Dashboard [\#4](https://github.com/telekom-mms/terraform-azurerm-management/issues/4)
+
+## [1.0.1](https://github.com/telekom-mms/terraform-azurerm-management/tree/1.0.1) (2022-05-09)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/1.0.0...1.0.1)
 
 **Merged pull requests:**
 
-- chore\(deps\): update hashicorp/setup-terraform action to v2 [\#8](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/8) ([renovate[bot]](https://github.com/apps/renovate))
-- chore\(deps\): update creyd/prettier\_action action to v4 [\#7](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
-- chore\(deps\): update actions/checkout action [\#6](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/6) ([renovate[bot]](https://github.com/apps/renovate))
-- chore\(deps\): update github-actions-x/commit action to v2.9 [\#5](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
-- chore\(deps\): update actions/checkout action to v2.4.2 [\#2](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
-- add renovate config [\#1](https://github.com/T-Systems-MMS/terraform-azurerm-management/pull/1) ([michaelamattes](https://github.com/michaelamattes))
+- chore\(deps\): update hashicorp/setup-terraform action to v2 [\#8](https://github.com/telekom-mms/terraform-azurerm-management/pull/8) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update creyd/prettier\_action action to v4 [\#7](https://github.com/telekom-mms/terraform-azurerm-management/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update actions/checkout action [\#6](https://github.com/telekom-mms/terraform-azurerm-management/pull/6) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update github-actions-x/commit action to v2.9 [\#5](https://github.com/telekom-mms/terraform-azurerm-management/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update actions/checkout action to v2.4.2 [\#2](https://github.com/telekom-mms/terraform-azurerm-management/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
+- add renovate config [\#1](https://github.com/telekom-mms/terraform-azurerm-management/pull/1) ([michaelamattes](https://github.com/michaelamattes))
 
-## [1.0.0](https://github.com/T-Systems-MMS/terraform-azurerm-management/tree/1.0.0) (2022-02-17)
+## [1.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/1.0.0) (2022-02-17)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azurerm-management/compare/0.0.3...1.0.0)
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/0.0.3...1.0.0)
 
-## [0.0.3](https://github.com/T-Systems-MMS/terraform-azurerm-management/tree/0.0.3) (2021-12-16)
+## [0.0.3](https://github.com/telekom-mms/terraform-azurerm-management/tree/0.0.3) (2021-12-16)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azurerm-management/compare/0.0.2...0.0.3)
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/0.0.2...0.0.3)
 
-## [0.0.2](https://github.com/T-Systems-MMS/terraform-azurerm-management/tree/0.0.2) (2021-12-16)
+## [0.0.2](https://github.com/telekom-mms/terraform-azurerm-management/tree/0.0.2) (2021-12-16)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azurerm-management/compare/0.0.1...0.0.2)
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/0.0.1...0.0.2)
 
-## [0.0.1](https://github.com/T-Systems-MMS/terraform-azurerm-management/tree/0.0.1) (2021-12-16)
+## [0.0.1](https://github.com/telekom-mms/terraform-azurerm-management/tree/0.0.1) (2021-12-16)
 
-[Full Changelog](https://github.com/T-Systems-MMS/terraform-azurerm-management/compare/ccd9c5427804c9ce37ba90e07208118e65a724b2...0.0.1)
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/ccd9c5427804c9ce37ba90e07208118e65a724b2...0.0.1)
 
 
 
