@@ -8,6 +8,14 @@
 
 - Dependency Dashboard [\#4](https://github.com/telekom-mms/terraform-azurerm-management/issues/4)
 
+**Merged pull requests:**
+
+- add readme [\#14](https://github.com/telekom-mms/terraform-azurerm-management/pull/14) ([michaelamattes](https://github.com/michaelamattes))
+- transfer github organisation, refactor module [\#12](https://github.com/telekom-mms/terraform-azurerm-management/pull/12) ([michaelamattes](https://github.com/michaelamattes))
+- add Renovate Dependency Dashboard and automatic merge on patch updates [\#11](https://github.com/telekom-mms/terraform-azurerm-management/pull/11) ([michaelamattes](https://github.com/michaelamattes))
+- chore\(deps\): update actions/checkout action to v3.2.0 [\#10](https://github.com/telekom-mms/terraform-azurerm-management/pull/10) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update actions/checkout action to v3.1.0 [\#9](https://github.com/telekom-mms/terraform-azurerm-management/pull/9) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [1.0.1](https://github.com/telekom-mms/terraform-azurerm-management/tree/1.0.1) (2022-05-09)
 
 [Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/1.0.0...1.0.1)
