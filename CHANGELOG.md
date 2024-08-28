@@ -1,12 +1,16 @@
 # Changelog
 
+## [2.0.1](https://github.com/telekom-mms/terraform-azurerm-management/tree/2.0.1) (2024-08-28)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/2.0.0...2.0.1)
+
+**Implemented enhancements:**
+
+- Pin version of azurerm to compatible state   [\#17](https://github.com/telekom-mms/terraform-azurerm-management/pull/17) ([michaelamattes](https://github.com/michaelamattes))
+
 ## [2.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/2.0.0) (2023-11-06)
 
 [Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/1.0.1...2.0.0)
-
-**Closed issues:**
-
-- Dependency Dashboard [\#4](https://github.com/telekom-mms/terraform-azurerm-management/issues/4)
 
 **Merged pull requests:**
 
