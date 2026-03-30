@@ -1,12 +1,20 @@
 # Changelog
 
+## [3.0.1](https://github.com/telekom-mms/terraform-azurerm-management/tree/3.0.1) (2026-03-30)
+
+[Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/3.0.0...3.0.1)
+
+**Merged pull requests:**
+
+- chore\(config\): standardize renovate.json and update repository topics [\#20](https://github.com/telekom-mms/terraform-azurerm-management/pull/20) ([mikaEz](https://github.com/mikaEz))
+
 ## [3.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/3.0.0) (2025-12-19)
 
 [Full Changelog](https://github.com/telekom-mms/terraform-azurerm-management/compare/2.0.1...3.0.0)
 
 **Fixed bugs:**
 
-- fix terrascan workflow run [\#18](https://github.com/telekom-mms/terraform-azurerm-management/pull/18) ([michaelamattes](https://github.com/michaelamattes))
+- fix terrascan workflow run [\#18](https://github.com/telekom-mms/terraform-azurerm-management/pull/18) ([mikaEz](https://github.com/mikaEz))
 
 **Merged pull requests:**
 
@@ -18,7 +26,7 @@
 
 **Implemented enhancements:**
 
-- Pin version of azurerm to compatible state   [\#17](https://github.com/telekom-mms/terraform-azurerm-management/pull/17) ([michaelamattes](https://github.com/michaelamattes))
+- Pin version of azurerm to compatible state   [\#17](https://github.com/telekom-mms/terraform-azurerm-management/pull/17) ([mikaEz](https://github.com/mikaEz))
 
 ## [2.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/2.0.0) (2023-11-06)
 
@@ -26,9 +34,9 @@
 
 **Merged pull requests:**
 
-- add readme [\#14](https://github.com/telekom-mms/terraform-azurerm-management/pull/14) ([michaelamattes](https://github.com/michaelamattes))
-- transfer github organisation, refactor module [\#12](https://github.com/telekom-mms/terraform-azurerm-management/pull/12) ([michaelamattes](https://github.com/michaelamattes))
-- add Renovate Dependency Dashboard and automatic merge on patch updates [\#11](https://github.com/telekom-mms/terraform-azurerm-management/pull/11) ([michaelamattes](https://github.com/michaelamattes))
+- add readme [\#14](https://github.com/telekom-mms/terraform-azurerm-management/pull/14) ([mikaEz](https://github.com/mikaEz))
+- transfer github organisation, refactor module [\#12](https://github.com/telekom-mms/terraform-azurerm-management/pull/12) ([mikaEz](https://github.com/mikaEz))
+- add Renovate Dependency Dashboard and automatic merge on patch updates [\#11](https://github.com/telekom-mms/terraform-azurerm-management/pull/11) ([mikaEz](https://github.com/mikaEz))
 - chore\(deps\): update actions/checkout action to v3.2.0 [\#10](https://github.com/telekom-mms/terraform-azurerm-management/pull/10) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update actions/checkout action to v3.1.0 [\#9](https://github.com/telekom-mms/terraform-azurerm-management/pull/9) ([renovate[bot]](https://github.com/apps/renovate))
 
@@ -43,7 +51,7 @@
 - chore\(deps\): update actions/checkout action [\#6](https://github.com/telekom-mms/terraform-azurerm-management/pull/6) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update github-actions-x/commit action to v2.9 [\#5](https://github.com/telekom-mms/terraform-azurerm-management/pull/5) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update actions/checkout action to v2.4.2 [\#2](https://github.com/telekom-mms/terraform-azurerm-management/pull/2) ([renovate[bot]](https://github.com/apps/renovate))
-- add renovate config [\#1](https://github.com/telekom-mms/terraform-azurerm-management/pull/1) ([michaelamattes](https://github.com/michaelamattes))
+- add renovate config [\#1](https://github.com/telekom-mms/terraform-azurerm-management/pull/1) ([mikaEz](https://github.com/mikaEz))
 
 ## [1.0.0](https://github.com/telekom-mms/terraform-azurerm-management/tree/1.0.0) (2022-02-17)
 
